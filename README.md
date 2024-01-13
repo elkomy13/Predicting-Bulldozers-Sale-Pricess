@@ -1,9 +1,7 @@
 Predicting Bulldozer Sale Prices - Machine Learning Project 🚜
 
 
-
-![Alt text](WhatsApp Image 2024-01-13 at 4.02.22 PM.jpeg)
-
+![WhatsApp Image 2024-01-13 at 4 02 22 PM (1)](https://github.com/elkomy13/Predicting-Bulldozers-Sale-Pricess/assets/97259226/51b65c70-a652-4c3c-8d65-7dd7166d0c83)
 
 Overview
 you'll find the code and documentation for my latest machine learning project, focused on predicting the sale prices of bulldozers. The project's primary goal was to develop a robust model capable of forecasting bulldozer prices based on their unique characteristics and historical sales data.
