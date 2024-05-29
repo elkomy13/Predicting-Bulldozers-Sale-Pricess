@@ -1,7 +1,7 @@
 Predicting Bulldozer Sale Prices - Machine Learning Project 🚜
 
 
-![WhatsApp Image 2024-01-13 at 4 02 22 PM (1)](https://github.com/elkomy13/Predicting-Bulldozers-Sale-Pricess/assets/97259226/51b65c70-a652-4c3c-8d65-7dd7166d0c83)
+
 
 Overview
 you'll find the code and documentation for my latest machine learning project, focused on predicting the sale prices of bulldozers. The project's primary goal was to develop a robust model capable of forecasting bulldozer prices based on their unique characteristics and historical sales data.
@@ -26,13 +26,4 @@ Features and Techniques:
 Working with a substantial dataset of 412,698 entries, the project delves into time series data. A key aspect involves parsing the sale date into distinct components: sale year, sale month, sale day, sale day of the week, and sale day of the month. Feature engineering techniques were applied to enhance the model's predictive capabilities.
 Explore the data dictionary for detailed features from here : https://www.kaggle.com/c/bluebook-for-bulldozers/overview/evaluation
 
-Usage
-The code is organized and well-commented, allowing for easy navigation.
-Dependencies are listed in the requirements.txt file for quick setup.
-Connect with Me
-Feel free to reach out for discussions or to delve deeper into the intricacies of this exciting project. Connect with me on LinkedIn or open an issue for inquiries and collaborations.
-
-🔗 LinkedIn: https://www.linkedin.com/in/adham-hany-b18469277 
-📧 Email: elkomyadham56@gmail.com
-
-Happy coding and predicting bulldozer prices!  #MachineLearning #DataScience #PredictiveAnalytics #RegressionAnalysis #BulldozerPrices #KaggleCompetition
+![WhatsApp Image 2024-01-13 at 4 02 22 PM (1)](https://github.com/elkomy13/Predicting-Bulldozers-Sale-Pricess/assets/97259226/51b65c70-a652-4c3c-8d65-7dd7166d0c83)
